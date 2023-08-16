@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gudwls97%20Github!&fontSize=90" />	
 </div>
 <div align=center>
-## 끊임없이 노력하는 개발자
+## 끊임없이 노력하는 개발자<br>
 ITWILL 교육센터 <I>2023.01. ~ 2023.07.</I> 
 </div>
 <div align=center>
