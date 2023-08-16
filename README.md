@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gudwls97%20Github!&fontSize=90" />	
 </div>
 
-## *Software Engineer*, 끊임없이 노력하는 개발자
+## 끊임없이 노력하는 개발자
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
