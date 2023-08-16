@@ -39,7 +39,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://www.notion.so/8b4f6380cfd14700a2fb70bb90336c75?pvs=4">
+	<a href="https://local-brisket-660.notion.site/8b4f6380cfd14700a2fb70bb90336c75?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
