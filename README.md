@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 ## 끊임없이 노력하는 개발자
-* **ITWILL 교육센터** <I>2023.01. ~ 2023.07.</I> 
+ITWILL 교육센터 <I>2023.01. ~ 2023.07.</I> 
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
